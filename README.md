@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -67,12 +66,12 @@
       Simple, thoughtful mobile apps designed to make everyday moments a little better.
     </p>
 
-    <a href="https://play.google.com/store/apps" target="_blank">
-      View Apps on Google Play
+    <a href="https://play.google.com/store/apps/developer?id=Two+Sock+Fox" target="_blank">
+      View Our Apps on Google Play
     </a>
 
     <footer>
-      © 2026 NoMi Apps · Contact: your@email.com
+      © 2026 Two Sock Fox · Contact: support@twosockfox.com
     </footer>
   </div>
 </body>
